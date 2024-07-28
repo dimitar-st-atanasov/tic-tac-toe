@@ -1,2 +1,2 @@
 # tic-tac-toe
-A tic-tac-toe game with React and Python
+A tic-tac-toe game with React
